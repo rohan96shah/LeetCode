@@ -9,6 +9,6 @@ Explanation: n is 2, and the maximum sum of pairs is 4 = min(1, 2) + min(3, 4).
 ```
 __Note:__
 <ol>
-  <li>__n__ is a positive integer, which is in the range of [1, 10000].</li>
+  <li>n is a positive integer, which is in the range of [1, 10000].</li>
   <li>All the integers in the array will be in the range of [-10000, 10000].</li>
 </ol>
